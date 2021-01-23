@@ -1,2 +1,3 @@
 # Notification-EmbeddedSystem
-System that notifies user if he is being too loud inside a study place
+System that notifies user if he is being too loud inside a study placeThis application is a system that notifies the user if he is being too loud inside a study place (ex: library) for educational purposes. It is designed such that if a certain sound threshold is broken the system will start a silent alert that notifies the user that he should remain quiet. The alert consists of an LED that lights up, an LCD screen that asks the user to remain quiet, and a vibration motor that starts working. The alert could be silenced by pressing a push button.
+This tool could be distributed across tables inside a library so that each person could be notified if he is being too loud.
